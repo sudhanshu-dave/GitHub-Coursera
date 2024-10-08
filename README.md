@@ -1,0 +1,1 @@
+In this assignment, you will create and manage a GitHub repository through both the GitHub UI and Git CLI. The assignment is divided into two parts, focusing on using the GitHub web interface and the Git command line interface (CLI) to complete various repository management tasks.
